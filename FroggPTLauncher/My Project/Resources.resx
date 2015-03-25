@@ -118,142 +118,145 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="fond1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fond1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="fond5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fond5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="fond4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fond4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="fond3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fond3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="fond2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fond2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="gamelauncher" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\gamelauncher.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="gameoption" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\gameoption.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="save" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\save.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="save_a" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\save_a.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="save_o" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\save_o.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="game" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\game.exe;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="fond10" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fond10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="fond11" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fond11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="fond12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fond12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="fond13" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fond13.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="fond14" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fond14.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="fond15" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fond15.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="fond16" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fond16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="fond17" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fond17.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="fond6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fond6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="fond7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fond7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="fond8" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fond8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="fond9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fond9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="options" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\options.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="options_a" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\options_a.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="options_o" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\options_o.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="play" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\play.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="play_a" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\play_a.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="play_d" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\play_d.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="play_o" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\play_o.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="cadre" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cadre.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="close" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\close.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="close_o" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\close_o.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="pix" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pix.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="cadre2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cadre2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="fond18" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fond18.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="fond19" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fond19.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="gamecustom" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\gamecustom.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_modified_CharacterSelect" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\_modified_CharacterSelect.zip;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="_modified_Interface" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\_modified_Interface.zip;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="_modified_Opening" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\_modified_Opening.zip;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="_modified_Sound" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\_modified_Sound.zip;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="_original_CharacterSelect" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\_original_CharacterSelect.zip;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="fond10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fond10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gameoption" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gameoption.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fond19" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fond19.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="save_o" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\save_o.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="play_o" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\play_o.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fond8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fond8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="play_a" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\play_a.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="play" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\play.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="game" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\game.exe;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="options_o" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\options_o.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fond3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fond3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fond13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fond13.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cadre" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cadre.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cadre2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cadre2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fond14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fond14.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fond1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fond1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fond11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fond11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="_original_Interface" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\_original_Interface.zip;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="fond4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fond4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fond6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fond6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_original_Sound" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\_original_Sound.zip;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="fond16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fond16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_modified_Opening" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\_modified_Opening.zip;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="save_a" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\save_a.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="options" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\options.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fond18" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fond18.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fond2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fond2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="close" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\close.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fond9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fond9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="_original_Opening" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\_original_Opening.zip;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="_original_Sound" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\_original_Sound.zip;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="gamelauncher" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gamelauncher.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fond12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fond12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="play_d" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\play_d.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fond7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fond7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fond17" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fond17.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="save" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\save.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="options_a" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\options_a.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gamecustom" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gamecustom.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fond5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fond5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fond15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fond15.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="close_o" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\close_o.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_modified_CharacterSelect" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\_modified_CharacterSelect.zip;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="pix" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pix.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_modified_Interface" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\_modified_Interface.zip;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="frogglogo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frogglogo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

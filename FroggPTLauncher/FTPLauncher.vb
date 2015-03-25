@@ -18,7 +18,7 @@ Public Class FroggPTLauncher
     'first update version
     Public firstVersion = "5160"
     'game file
-    Public gameFile = "game.exe"
+    Public gameFile = "frogg.exe"
     'game version server file
     Public versionServer = "http://version.frogg.fr/"
     Public versionParam = "?version="
@@ -234,8 +234,12 @@ Public Class FroggPTLauncher
 
 #Region "Menu Actions"
 
-    Private Sub MenuHelp_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MenuHelp.Click
+    Private Sub MenuBgChange_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MenuBgChange.Click
         setRdmBg()
+    End Sub
+
+    Private Sub MenuHelp_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MenuHelp.Click
+        froggLogo.Show()
     End Sub
 
     Private Sub MenuOptions_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MenuOptions.Click
@@ -330,7 +334,6 @@ Public Class FroggPTLauncher
     End Sub
 
     Sub startGame()
-        writeByteFile(gameFile, My.Resources.Resources.game)
         Process.Start(gameFile)
         exitMain()
     End Sub
@@ -950,6 +953,5 @@ Public Class FroggPTLauncher
     'End Sub
 
 #End Region
-
 
 End Class

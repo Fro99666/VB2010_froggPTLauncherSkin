@@ -97,6 +97,12 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="froggLogo.Designer.vb">
+      <DependentUpon>froggLogo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="froggLogo.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FTPLauncher.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -119,9 +125,11 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="Shell.vb" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="froggLogo.resx">
+      <DependentUpon>froggLogo.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FTPLauncher.resx">
       <DependentUpon>FTPLauncher.vb</DependentUpon>
     </EmbeddedResource>
@@ -155,6 +163,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="froggpt.ico" />
+    <None Include="Resources\frogglogo.png" />
     <None Include="Resources\fond18.png" />
     <None Include="Resources\gamecustom.png" />
     <None Include="Resources\fond19.png" />

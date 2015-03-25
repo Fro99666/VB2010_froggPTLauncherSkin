@@ -53,6 +53,7 @@ Partial Class FroggPTLauncher
         Me.MenuFacebook = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuOptions = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuCustomize = New System.Windows.Forms.ToolStripMenuItem()
+        Me.MenuBgChange = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuHelp = New System.Windows.Forms.ToolStripMenuItem()
         Me.ToolBar = New System.Windows.Forms.StatusStrip()
         Me.ToolBarStatus = New System.Windows.Forms.ToolStripStatusLabel()
@@ -327,7 +328,7 @@ Partial Class FroggPTLauncher
         Me.MenuMain.AutoSize = False
         Me.MenuMain.Dock = System.Windows.Forms.DockStyle.None
         Me.MenuMain.GripMargin = New System.Windows.Forms.Padding(2, 0, 0, 0)
-        Me.MenuMain.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.MenuFile, Me.MenuNetwork, Me.MenuOptions, Me.MenuCustomize, Me.MenuHelp})
+        Me.MenuMain.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.MenuFile, Me.MenuNetwork, Me.MenuOptions, Me.MenuCustomize, Me.MenuBgChange, Me.MenuHelp})
         Me.MenuMain.Location = New System.Drawing.Point(28, 39)
         Me.MenuMain.Name = "MenuMain"
         Me.MenuMain.Padding = New System.Windows.Forms.Padding(0)
@@ -399,6 +400,12 @@ Partial Class FroggPTLauncher
         Me.MenuCustomize.Name = "MenuCustomize"
         Me.MenuCustomize.Size = New System.Drawing.Size(89, 20)
         Me.MenuCustomize.Text = "[ Customize ]"
+        '
+        'MenuBgChange
+        '
+        Me.MenuBgChange.Name = "MenuBgChange"
+        Me.MenuBgChange.Size = New System.Drawing.Size(36, 20)
+        Me.MenuBgChange.Text = "[ ! ]"
         '
         'MenuHelp
         '
@@ -777,7 +784,7 @@ Partial Class FroggPTLauncher
     Friend WithEvents MenuMain As System.Windows.Forms.MenuStrip
     Friend WithEvents MenuFile As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents MenuOptions As System.Windows.Forms.ToolStripMenuItem
-    Friend WithEvents MenuHelp As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents MenuBgChange As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents MenuExit As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents MenuStartGame As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents MenuUpdate As System.Windows.Forms.ToolStripMenuItem
@@ -809,5 +816,6 @@ Partial Class FroggPTLauncher
     Friend WithEvents PanelCstmIO As System.Windows.Forms.RadioButton
     Friend WithEvents PanelCstmSave As System.Windows.Forms.PictureBox
     Friend WithEvents PanelCstmTitle As System.Windows.Forms.PictureBox
+    Friend WithEvents MenuHelp As System.Windows.Forms.ToolStripMenuItem
 
 End Class
