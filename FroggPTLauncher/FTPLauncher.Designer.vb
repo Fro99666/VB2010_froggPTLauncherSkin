@@ -46,6 +46,7 @@ Partial Class FroggPTLauncher
         Me.MenuFile = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStartGame = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuUpdate = New System.Windows.Forms.ToolStripMenuItem()
+        Me.MenuUpdateMirror = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuExit = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuNetwork = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuFroggFr = New System.Windows.Forms.ToolStripMenuItem()
@@ -339,7 +340,7 @@ Partial Class FroggPTLauncher
         '
         'MenuFile
         '
-        Me.MenuFile.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.MenuStartGame, Me.MenuUpdate, Me.MenuExit})
+        Me.MenuFile.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.MenuStartGame, Me.MenuUpdate, Me.MenuUpdateMirror, Me.MenuExit})
         Me.MenuFile.Name = "MenuFile"
         Me.MenuFile.Size = New System.Drawing.Size(51, 20)
         Me.MenuFile.Text = "[ File ]"
@@ -348,20 +349,27 @@ Partial Class FroggPTLauncher
         '
         Me.MenuStartGame.Enabled = False
         Me.MenuStartGame.Name = "MenuStartGame"
-        Me.MenuStartGame.Size = New System.Drawing.Size(146, 22)
+        Me.MenuStartGame.Size = New System.Drawing.Size(182, 22)
         Me.MenuStartGame.Text = "Start Game"
         '
         'MenuUpdate
         '
         Me.MenuUpdate.Enabled = False
         Me.MenuUpdate.Name = "MenuUpdate"
-        Me.MenuUpdate.Size = New System.Drawing.Size(146, 22)
+        Me.MenuUpdate.Size = New System.Drawing.Size(182, 22)
         Me.MenuUpdate.Text = "Update Game"
+        '
+        'MenuUpdateMirror
+        '
+        Me.MenuUpdateMirror.Enabled = False
+        Me.MenuUpdateMirror.Name = "MenuUpdateMirror"
+        Me.MenuUpdateMirror.Size = New System.Drawing.Size(182, 22)
+        Me.MenuUpdateMirror.Text = "Update Game mirror"
         '
         'MenuExit
         '
         Me.MenuExit.Name = "MenuExit"
-        Me.MenuExit.Size = New System.Drawing.Size(146, 22)
+        Me.MenuExit.Size = New System.Drawing.Size(182, 22)
         Me.MenuExit.Text = "Exit"
         '
         'MenuNetwork
@@ -817,5 +825,6 @@ Partial Class FroggPTLauncher
     Friend WithEvents PanelCstmSave As System.Windows.Forms.PictureBox
     Friend WithEvents PanelCstmTitle As System.Windows.Forms.PictureBox
     Friend WithEvents MenuHelp As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents MenuUpdateMirror As System.Windows.Forms.ToolStripMenuItem
 
 End Class

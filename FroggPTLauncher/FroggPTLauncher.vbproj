@@ -163,6 +163,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="froggpt.ico" />
+    <None Include="Resources\btnpause.gif" />
     <None Include="Resources\frogglogo.png" />
     <None Include="Resources\fond18.png" />
     <None Include="Resources\gamecustom.png" />
